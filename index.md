@@ -4,7 +4,7 @@ Welcome to the documentation repository! Use the links below to navigate to diff
 
 ## Table of Contents
 
-- [Getting Started](./page1.md): Learn how to set up and get started with the project.
+- [Getting Started](./create.md): Learn how to set up and get started with the project.
 - [Usage Guide](./page2.md): Detailed instructions on using the project features.
 
 ## Additional Information
