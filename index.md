@@ -13,4 +13,4 @@ This documentation is designed to help you understand and use the project effect
 
 ---
 
-Happy documenting!
+Happy documenting friends!
