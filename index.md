@@ -6,6 +6,7 @@ Welcome to the documentation repository! Use the links below to navigate to diff
 
 - [Getting Started](./Create.md): Learn how to set up and get started with the project.
 - [Usage Guide](./page2.md): Detailed instructions on using the project features.
+- [Main stuff](./Create.md): Direct instructions
 
 ## Additional Information
 
